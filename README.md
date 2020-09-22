@@ -1,2 +1,13 @@
-# First-Game-development-homework
-A very rough little game based on Unity
+# 游戏开发基础_作业1
+
+## 接方块
+
+- WASD控制方向
+- 鼠标左键点击地面生成从天而降的方块
+- 在方块落地之前接住它
+- 按r重新开始
+- 按Esc退出
+
+
+### 打包后的游戏已上传清华网络学堂作业
+### 这里的是源码
